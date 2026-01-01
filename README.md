@@ -9,6 +9,5 @@
 
 ### 📫 Get in Touch
 
-- Portfolio: [mchaker.up.railway.app](https://mchaker.up.railway.app)
 - LinkedIn: [linkedin.com/in/mchakerouaaddi](https://www.linkedin.com/in/mchakerouaaddi)
 - Email: med18chaker@gmail.com
